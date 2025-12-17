@@ -1,11 +1,14 @@
-# Salut, moi c'est Rayan STA 👋
+# Salut, moi c'est Rayan 👋
 
 ### 📊 Futurs alternant Data Analyst / Data Scientist
 Je combine une expertise solide en **gestion financière, paie et audit** avec une passion pour l'analyse de données et l'IA. 
 
-- 🎓 Actuellement en Bachelor Paie & Audit Social[cite: 38].
 - 🚀 En route vers un **MBA Big Data et Intelligence Artificielle** (2026-2028)
+- 🎓 Actuellement en Bachelor Paie & Audit Social.
+- 🎓 Diplomé d'un Bachelor en Ressoruces Humaines.
+- 🎓 Diplomé d'un BTS Comptabilité et Gestion.
 - 🏆 Lauréat du **Challenge Performance 2025** (1ère place nationale sur 436 équipes).
+  
 
 ### 🛠 Stack Technique
 - **Analyse & SQL:** SQL Server (SSMS) , Excel (Modélisation de performance).
