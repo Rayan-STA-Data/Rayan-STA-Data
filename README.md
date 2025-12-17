@@ -4,7 +4,7 @@
 Je combine une expertise solide en **gestion financière, paie et audit** avec une passion pour l'analyse de données et l'IA. 
 
 - 🚀 En route vers un **MBA Big Data et Intelligence Artificielle** (2026-2028)
-- 🎓 Actuellement en Bachelor Paie & Audit Social.
+- 🎓 Actuellement en Bachelor Responsable Paie & Audit Social.
 - 🎓 Diplomé d'un Bachelor en Ressoruces Humaines.
 - 🎓 Diplomé d'un BTS Comptabilité et Gestion.
 - 🏆 Lauréat du **Challenge Performance 2025** (1ère place nationale sur 436 équipes).
